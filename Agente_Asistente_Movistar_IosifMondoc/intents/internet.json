@@ -1,0 +1,102 @@
+{
+  "id": "57176235-58dd-46e8-b19a-e987862a45e2",
+  "name": "internet",
+  "auto": true,
+  "contexts": [
+    "internet"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "sol_internet",
+          "lifespan": 10
+        },
+        {
+          "name": "internet-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "fa126c66-8bb9-43c4-97f8-608b2d73bce4",
+          "name": "averia",
+          "required": true,
+          "dataType": "@averia",
+          "value": "$averia",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Por favor, elige una de las opciones mencionadas anteriormente."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "Vaya, siento que tengas un problema con tu Wifi #datos1.person , pero no te preocupes en un periquete tendrás otra vez conexión a internet. Indique cuál es su problema: \n1. Configuración wifi\n2. Dispositivos de conexión\n3. Problemas de navegación\n4. Otros",
+              "displayText": "Vaya, siento que tengas un problema con tu Wifi 📶 #datos1.person , pero no te preocupes en un periquete tendrás otra vez conexión a internet. \nIndique cuál es su problema: 👇🏻\n1. Configuración wifi\n2. Dispositivos de conexión\n3. Problemas de navegación\n4. Otros",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "suggestions": [
+            {
+              "title": "Configuración wifi"
+            },
+            {
+              "title": "Dispositivos de conexión"
+            },
+            {
+              "title": "Problemas de navegación"
+            },
+            {
+              "title": "Otros"
+            }
+          ],
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

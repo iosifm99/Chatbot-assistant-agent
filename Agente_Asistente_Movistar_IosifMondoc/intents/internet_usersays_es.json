@@ -1,0 +1,47 @@
+[
+  {
+    "id": "916f1f9c-e276-4483-9929-f6e124b5e098",
+    "data": [
+      {
+        "text": "🌐 INTERNET",
+        "meta": "@averia",
+        "alias": "averia",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "79ed943c-b3de-4e38-bb18-0adea5225a3c",
+    "data": [
+      {
+        "text": "🌐  INTERNET",
+        "meta": "@averia",
+        "alias": "averia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "877efb87-1017-4e1a-a631-8b95f0a82f63",
+    "data": [
+      {
+        "text": "INTERNET",
+        "meta": "@averia",
+        "alias": "averia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

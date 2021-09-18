@@ -1,0 +1,55 @@
+{
+  "id": "050a28b7-52ba-4eeb-9c1d-3c60d3020fa0",
+  "name": "sol_fijo",
+  "auto": true,
+  "contexts": [
+    "sol_fijo"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "averia_solucionada",
+          "lifespan": 10
+        },
+        {
+          "name": "sol_fijo-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "95e11b62-fb2a-408f-9960-53a8d601f00d",
+          "name": "fijo",
+          "required": true,
+          "dataType": "@fijo",
+          "value": "$fijo",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Por favor, elige una de las opciones mencionadas anteriormente."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

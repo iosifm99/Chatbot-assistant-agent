@@ -1,0 +1,67 @@
+{
+  "id": "b5de31d5-3bce-4376-9e37-31e55584d884",
+  "name": "sol_movistar",
+  "auto": true,
+  "contexts": [
+    "sol_movistar"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "especificas",
+          "lifespan": 10
+        },
+        {
+          "name": "averia_solucionada",
+          "lifespan": 10
+        },
+        {
+          "name": "sol_movistar-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "468f4544-b001-477b-9037-19b0ad8dbfca",
+          "name": "movistare",
+          "required": true,
+          "dataType": "@movistare",
+          "value": "$movistare",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Por favor, elige una de las opciones mencionadas anteriormente."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

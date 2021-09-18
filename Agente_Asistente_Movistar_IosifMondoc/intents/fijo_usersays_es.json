@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ff3b105a-990f-47d8-8399-ab93df3ded41",
+    "data": [
+      {
+        "text": "Fijo 📞",
+        "meta": "@averia",
+        "alias": "averia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "f5da3bac-8f86-4c08-a70d-4b7bf9f08d9f",
+    "data": [
+      {
+        "text": "☎️  FIJO",
+        "meta": "@averia",
+        "alias": "averia",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "0de43926-a280-4c92-93e1-fbdc84efe0c0",
+    "data": [
+      {
+        "text": "Fijo",
+        "meta": "@averia",
+        "alias": "averia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "ea6c3cf8-389c-407d-af7c-51f2af532aa2",
+    "data": [
+      {
+        "text": "☎️ FIJO",
+        "meta": "@averia",
+        "alias": "averia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "es",
+    "updated": 0
+  }
+]

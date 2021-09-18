@@ -1,0 +1,59 @@
+{
+  "id": "e70d2c79-87c5-4d6d-8f5a-65027f57bb5d",
+  "name": "sol_internet",
+  "auto": true,
+  "contexts": [
+    "sol_internet"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "especificas",
+          "lifespan": 10
+        },
+        {
+          "name": "averia_solucionada",
+          "lifespan": 10
+        },
+        {
+          "name": "sol_internet-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "34876f5d-609b-4578-bfa2-abc279c82ee9",
+          "name": "internete",
+          "required": true,
+          "dataType": "@internete",
+          "value": "$internete",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Por favor, elige una de las opciones mencionadas anteriormente."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

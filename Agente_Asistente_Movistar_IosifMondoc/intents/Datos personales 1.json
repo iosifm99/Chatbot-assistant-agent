@@ -1,0 +1,82 @@
+{
+  "id": "c8c53665-8031-430b-b484-0e93f5d313f3",
+  "name": "Datos personales 1",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "datos1",
+          "lifespan": 5
+        },
+        {
+          "name": "Datospersonales1-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "5f6c3c0b-919e-447c-8bbb-7909e193182d",
+          "name": "person",
+          "required": true,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Por favor, indíqueme su nombre para dirigirme a usted."
+            },
+            {
+              "lang": "es",
+              "value": "Disculpe, ¿me puede indicar su nombre para dirigirme a usted?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "Hola $person, por favor indíqueme el número de teléfono asociado a su línea de Movistar.",
+              "displayText": "Hola $person, por favor indíqueme el número de teléfono 📱 asociado a su línea de Movistar 😄.",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

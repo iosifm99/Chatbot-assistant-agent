@@ -1,0 +1,37 @@
+[
+  {
+    "value": "EMITO PERO NO RECIBO O RECIBO PERO NO EMITO LLAMADA",
+    "synonyms": [
+      "Emito pero no recibo o recibo pero no emito llamada",
+      "Emito pero no recibo",
+      "recibo pero no emito llamada",
+      "recibo pero no emito",
+      "emito llamada",
+      "recibo llamada"
+    ]
+  },
+  {
+    "value": "SIN LÍNEA (NI EMITO NI RECIBO), NO ME SALE NADA EN LA PANTALLA DEL FIJO",
+    "synonyms": [
+      "sin línea",
+      "no me sale nada en la pantalla"
+    ]
+  },
+  {
+    "value": "PROBLEMAS DE CALIDAD (RUIDO EN LA LLAMADA)",
+    "synonyms": [
+      "PROBLEMAS DE CALIDAD (RUIDO EN LA LLAMADA)",
+      "problemas de calidad",
+      "ruido en la llamada"
+    ]
+  },
+  {
+    "value": "NO VEO EL NÚMERO DE TELÉFONO DE QUIÉN ME LLAMA",
+    "synonyms": [
+      "NO VEO EL NÚMERO DE TELÉFONO DE QUIÉN ME LLAMA",
+      "no veo el número",
+      "NO VEO EL Nº ENTRANTE",
+      "no veo el nº entrante"
+    ]
+  }
+]

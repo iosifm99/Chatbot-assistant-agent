@@ -1,0 +1,347 @@
+[
+  {
+    "id": "caac0dd6-cd33-437e-aeff-00c80beaf1b1",
+    "data": [
+      {
+        "text": "Servicio premium",
+        "meta": "@especificas",
+        "alias": "especificas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "e99e1841-5d42-4651-b016-2b5379adc609",
+    "data": [
+      {
+        "text": "Ni series ni pelis",
+        "meta": "@especificas",
+        "alias": "especificas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "915c3cc6-1bdb-46d8-8d08-7bc0453df803",
+    "data": [
+      {
+        "text": "No veo pelis",
+        "meta": "@especificas",
+        "alias": "especificas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "0e5b6710-5d7c-42d8-9234-08cb977b2e38",
+    "data": [
+      {
+        "text": "No veo series",
+        "meta": "@especificas",
+        "alias": "especificas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "344f0fed-6364-4c2e-9884-8fd90f9f2431",
+    "data": [
+      {
+        "text": "Aparece mensaje",
+        "meta": "@especificas",
+        "alias": "especificas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "dfaa0dbc-6bdf-48e7-90ec-f75e8c9d8367",
+    "data": [
+      {
+        "text": "Instalar en otros",
+        "meta": "@especificas",
+        "alias": "especificas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "1da10ad0-e7d7-4df3-b385-c0ea9df9a10b",
+    "data": [
+      {
+        "text": "Historial grabaciones",
+        "meta": "@especificas",
+        "alias": "especificas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "4937874c-df35-41b3-9b85-19de343e1a60",
+    "data": [
+      {
+        "text": "La imagen va y viene",
+        "meta": "@especificas",
+        "alias": "especificas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "69d4e2ad-a953-498b-b354-8fa00d8e447f",
+    "data": [
+      {
+        "text": "Falla algún canal",
+        "meta": "@especificas",
+        "alias": "especificas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "b40a2c0d-1976-4bc3-ad40-6af095f21801",
+    "data": [
+      {
+        "text": "No puedo grabar",
+        "meta": "@especificas",
+        "alias": "especificas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "fffeb0fe-9930-4b77-94ba-e1ebfe5ce5c3",
+    "data": [
+      {
+        "text": "No veo programación",
+        "meta": "@especificas",
+        "alias": "especificas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "8566597e-9991-44b6-8ad9-a413597158d9",
+    "data": [
+      {
+        "text": "No veo el fútbol",
+        "meta": "@especificas",
+        "alias": "especificas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "073127d8-537b-4c6b-9766-e37f032f9d89",
+    "data": [
+      {
+        "text": "No veo en directo",
+        "meta": "@especificas",
+        "alias": "especificas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "ff5de459-4cdd-459a-8da1-1ba5f14c7625",
+    "data": [
+      {
+        "text": "Zonas sin Wifi",
+        "meta": "@especificas",
+        "alias": "especificas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "36fb00f8-f73f-4aa6-862a-9fadb0fa5508",
+    "data": [
+      {
+        "text": "Ni línea ni Wifi",
+        "meta": "@especificas",
+        "alias": "especificas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "6aebb68e-0e7f-4e18-b258-fee46d784b96",
+    "data": [
+      {
+        "text": "No funciona router",
+        "meta": "@especificas",
+        "alias": "especificas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "7853b5b1-6688-4fb6-b894-f3ae8c18ce64",
+    "data": [
+      {
+        "text": "No navego",
+        "meta": "@especificas",
+        "alias": "especificas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "3f31e67c-a634-40c8-843c-c776600b4de2",
+    "data": [
+      {
+        "text": "Luz del wifi roja",
+        "meta": "@especificas",
+        "alias": "especificas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "1769a70b-8fd7-4237-8dab-e277a2a5ec08",
+    "data": [
+      {
+        "text": "Conexión inestable",
+        "meta": "@especificas",
+        "alias": "especificas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "5d96fe75-1166-4d0b-a86a-5a06399aa84a",
+    "data": [
+      {
+        "text": "Navego lento",
+        "meta": "@especificas",
+        "alias": "especificas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "a8305d60-e3a6-4e0e-82cb-8e44e30f9f5d",
+    "data": [
+      {
+        "text": "Cambiar seguridad",
+        "meta": "@especificas",
+        "alias": "especificas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "964b801d-6b36-4de0-bb3b-ba25d10be522",
+    "data": [
+      {
+        "text": "Cambiar canal frec",
+        "meta": "@especificas",
+        "alias": "especificas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "c37abf72-42ba-439b-80ba-3d6bcd7ed1d3",
+    "data": [
+      {
+        "text": "Restablecer router",
+        "meta": "@especificas",
+        "alias": "especificas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "es",
+    "updated": 0
+  }
+]

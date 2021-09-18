@@ -1,0 +1,92 @@
+[
+  {
+    "id": "692328e9-8da6-4e77-9f1d-bb532cd55912",
+    "data": [
+      {
+        "text": "SÍ",
+        "meta": "@final",
+        "alias": "final",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "07f7eede-1b85-4c4d-9ba7-b62aa995ae48",
+    "data": [
+      {
+        "text": "si",
+        "meta": "@final",
+        "alias": "final",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "cbe0ddba-ae36-4918-85d2-94117d2292ba",
+    "data": [
+      {
+        "text": "NO",
+        "meta": "@final",
+        "alias": "final",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "c73b5d2f-3954-46ce-9403-36d187260b86",
+    "data": [
+      {
+        "text": "SÍ, gracias",
+        "meta": "@final",
+        "alias": "final",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "84a62318-e7cb-4623-a4bd-b167bbda7e32",
+    "data": [
+      {
+        "text": "gracias",
+        "meta": "@final",
+        "alias": "final",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "3886ec03-a248-46bb-9f8c-561d8baa1efb",
+    "data": [
+      {
+        "text": "SÍ, gracias.",
+        "meta": "@final",
+        "alias": "final",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "es",
+    "updated": 0
+  }
+]

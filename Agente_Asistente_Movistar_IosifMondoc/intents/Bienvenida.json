@@ -1,0 +1,53 @@
+{
+  "id": "9640f3b8-ab42-445c-9e59-62c56d33dbb6",
+  "name": "Bienvenida",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "¡Hola! Soy tu Asistente Virtual de soporte técnico de Movistar España y estoy aquí para ayudarte. Por favor indíqueme su nombre para dirigirme a usted.",
+              "displayText": "¡Hola! Soy tu Asistente Virtual de soporte técnico de Movistar España y estoy aquí para ayudarte. 🤩 Por favor indíqueme su nombre para dirigirme a usted. 🧐",
+              "footer": "",
+              "ssml": ""
+            },
+            {
+              "description": "",
+              "textToSpeech": "¡Hey! Soy tu Asistente Virtual de soporte técnico de Movistar España y estoy aquí para ayudarte. Por favor indíqueme su nombre para dirigirme a usted.",
+              "displayText": "¡Hey! Soy tu Asistente Virtual de soporte técnico de Movistar España y estoy aquí para ayudarte. 😊 Por favor indíqueme su nombre para dirigirme a usted. 🧐",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

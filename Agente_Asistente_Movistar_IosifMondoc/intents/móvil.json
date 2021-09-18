@@ -1,0 +1,97 @@
+{
+  "id": "cff4ed18-3c6d-4219-9c02-28caabf588b2",
+  "name": "móvil",
+  "auto": true,
+  "contexts": [
+    "movil"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "sol_movil",
+          "lifespan": 10
+        },
+        {
+          "name": "mvil-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "115e2952-cec5-4ffa-9a2c-111e08921929",
+          "name": "averia",
+          "required": true,
+          "dataType": "@averia",
+          "value": "$averia",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "Vaya, siento que tengas un problema con tu telefonía móvil, pero no te preocupes en un periquete lo intentamos solucionar. Indique cuál es su problema: \n1. Datos\n2. No tengo línea\n3. No tengo cobertura\n4. Sim extraviada o deteriorada",
+              "displayText": "Vaya, siento que tengas un problema con tu telefonía móvil 📲 , pero no te preocupes en un periquete lo intentamos solucionar. Indique cuál es su problema:  👇🏻\n1. Datos\n2. No tengo línea\n3. No tengo cobertura\n4. Sim extraviada o deteriorada",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "suggestions": [
+            {
+              "title": "Datos"
+            },
+            {
+              "title": "No tengo línea"
+            },
+            {
+              "title": "No tengo cobertura"
+            },
+            {
+              "title": "Sim extraviada o deterior"
+            }
+          ],
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

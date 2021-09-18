@@ -1,0 +1,54 @@
+{
+  "id": "e5461162-4188-4b33-b3b9-cff4eb42202f",
+  "parentId": "b5de31d5-3bce-4376-9e37-31e55584d884",
+  "rootParentId": "b5de31d5-3bce-4376-9e37-31e55584d884",
+  "name": "sol_movistar - fallback",
+  "contexts": [
+    "especificas",
+    "averia_solucionada",
+    "sol_movistar-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "sol_movistar.sol_movistar-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "Por favor, indique una de las anteriores opciones.",
+              "displayText": "Por favor, indique una de las anteriores opciones.",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

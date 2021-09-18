@@ -1,0 +1,32 @@
+[
+  {
+    "value": "Fijo",
+    "synonyms": [
+      "☎️  Fijo",
+      "☎️ FIJO",
+      "Fijo 📞"
+    ]
+  },
+  {
+    "value": "Móvil",
+    "synonyms": [
+      "📱  Móvil"
+    ]
+  },
+  {
+    "value": "Internet",
+    "synonyms": [
+      "🌐 Internet",
+      "Wifi",
+      "internet"
+    ]
+  },
+  {
+    "value": "Movistar+",
+    "synonyms": [
+      "Movistar+",
+      "📺 MOVISTAR +",
+      "movistar plus"
+    ]
+  }
+]

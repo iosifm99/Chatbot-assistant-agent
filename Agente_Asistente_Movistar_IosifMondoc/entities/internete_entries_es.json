@@ -1,0 +1,31 @@
+[
+  {
+    "value": "DISPOSITIVOS DE CONEXIÓN",
+    "synonyms": [
+      "dispositivos",
+      "📲 DISPOSITIVOS DE CONEXIÓN",
+      "DISPOSITIVOS DE CONEXIÓN"
+    ]
+  },
+  {
+    "value": "CONFIGURACIÓN WIFI",
+    "synonyms": [
+      "📶CONFIGURACIÓN WIFI",
+      "configuración Wi-fi"
+    ]
+  },
+  {
+    "value": "PROBLEMAS DE NAVEGACIÓN",
+    "synonyms": [
+      "navegacion",
+      "❌ PROBLEMAS DE NAVEGACIÓN",
+      "❌PROBLEMAS DE NAVEGACIÓN"
+    ]
+  },
+  {
+    "value": "OTROS",
+    "synonyms": [
+      "⚙️OTROS"
+    ]
+  }
+]

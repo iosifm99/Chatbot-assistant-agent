@@ -1,0 +1,9 @@
+{
+  "id": "2d730308-9cac-431f-9545-d8cb0271e6da",
+  "name": "internete",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

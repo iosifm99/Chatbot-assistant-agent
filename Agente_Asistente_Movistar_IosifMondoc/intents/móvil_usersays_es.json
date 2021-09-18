@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1f39dfae-7547-4fc4-b047-2e2b3a64b7ff",
+    "data": [
+      {
+        "text": "MÓVIL 📱",
+        "meta": "@averia",
+        "alias": "averia",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "a4b9509c-abb4-4e70-8889-c7e90c0882d1",
+    "data": [
+      {
+        "text": "📱  MÓVIL",
+        "meta": "@averia",
+        "alias": "averia",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "143fad06-9525-4945-ae66-5621d24b79d2",
+    "data": [
+      {
+        "text": "Móvil",
+        "meta": "@averia",
+        "alias": "averia",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

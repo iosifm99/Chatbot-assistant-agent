@@ -1,0 +1,42 @@
+{
+  "id": "90e53fae-a8bd-4857-b572-4587465c13e8",
+  "name": "Fallback por defecto",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "¡Hola! Soy tu Asistente Virtual de soporte técnico de Movistar España y estoy aquí para ayudarte. Por favor indíqueme su nombre para dirigirme a usted.",
+              "displayText": "¡Hola! Soy tu Asistente Virtual de soporte técnico de Movistar España y estoy aquí para ayudarte. 🤓 Por favor indíqueme su nombre para dirigirme a usted. 🧐",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

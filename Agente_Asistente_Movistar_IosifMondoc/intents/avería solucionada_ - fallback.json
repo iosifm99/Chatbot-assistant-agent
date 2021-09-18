@@ -1,0 +1,69 @@
+{
+  "id": "e6684884-7694-4b9c-ae10-73d17d72b7b8",
+  "parentId": "c19c57e4-062b-4cca-8083-7c00b8831138",
+  "rootParentId": "c19c57e4-062b-4cca-8083-7c00b8831138",
+  "name": "avería solucionada? - fallback",
+  "contexts": [
+    "despedida",
+    "averasolucionada-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "averasolucionada.averasolucionada-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "Por favor, me puede indicar si ¿Desea realizar una nueva consulta?",
+              "displayText": "Por favor, me puede indicar si ¿Desea realizar una nueva consulta❓ 🤔",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "suggestions": [
+            {
+              "title": "Nueva consulta"
+            },
+            {
+              "title": "No. Hasta luego"
+            }
+          ],
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

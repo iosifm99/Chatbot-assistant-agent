@@ -1,0 +1,28 @@
+[
+  {
+    "id": "502d2991-461f-4e28-aee9-545a3787fa1a",
+    "data": [
+      {
+        "text": "No",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "7d06fb57-ac49-40ab-a3da-e5576013973c",
+    "data": [
+      {
+        "text": "No. Hasta luego",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

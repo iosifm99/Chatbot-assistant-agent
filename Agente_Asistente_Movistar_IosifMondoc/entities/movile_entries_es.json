@@ -1,0 +1,32 @@
+[
+  {
+    "value": "DATOS",
+    "synonyms": [
+      "Datos"
+    ]
+  },
+  {
+    "value": "NO TENGO LÍNEA",
+    "synonyms": [
+      "no tengo linea",
+      "no tengo línea"
+    ]
+  },
+  {
+    "value": "NO TENGO COBERTURA",
+    "synonyms": [
+      "no tengo cobertura",
+      "cobertura"
+    ]
+  },
+  {
+    "value": "SIM EXTRAVIADA O DETERIORADA",
+    "synonyms": [
+      "sim extraviada",
+      "sim perdida",
+      "sim deteriorada",
+      "SIM EXTRAVIADA O DETERIOR",
+      "sim extraviada o deterior"
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "id": "8ad1772b-10cd-465f-bfa9-bc1a760bcfba",
+  "name": "fijo",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

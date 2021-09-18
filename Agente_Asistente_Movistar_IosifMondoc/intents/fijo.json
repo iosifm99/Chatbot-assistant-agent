@@ -1,0 +1,102 @@
+{
+  "id": "4de4ac9c-e98b-44df-af9d-0ea861db029a",
+  "name": "fijo",
+  "auto": true,
+  "contexts": [
+    "fijo"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "sol_fijo",
+          "lifespan": 10
+        },
+        {
+          "name": "fijo-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "fbfecd77-483d-4db3-af36-e62df10f945d",
+          "name": "averia",
+          "required": true,
+          "dataType": "@averia",
+          "value": "$averia",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Por favor, elige una de las opciones mencionadas anteriormente."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "Vaya, siento que tengas un problema con tu línea de teléfono fijo #datos1.person , pero no te preocupes que te ayudo a solucionarlo. \nIndique cuál es su problema:\n1. Emito pero no recibo o recibo pero no emito llamada \n2. Sin línea (ni emito ni recibo) \n3. Problemas de calidad \n4. No veo el número de teléfono de quién me llama",
+              "displayText": "Vaya, siento que tengas un problema con tu línea de teléfono fijo ☎️ #datos1.person , pero no te preocupes que te ayudo a solucionarlo. \nIndique cuál es su problema 👇🏼:\n1. Emito pero no recibo o recibo pero no emito llamada \n2. Sin línea (ni emito ni recibo) \n3. Problemas de calidad \n4. No veo el número de teléfono de quién me llama",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "suggestions": [
+            {
+              "title": "Emito pero no recibo"
+            },
+            {
+              "title": "Sin línea"
+            },
+            {
+              "title": "Problemas de calidad"
+            },
+            {
+              "title": "No veo el nº entrante"
+            }
+          ],
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

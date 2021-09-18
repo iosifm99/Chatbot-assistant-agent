@@ -1,0 +1,119 @@
+{
+  "id": "83c96e3b-6507-489e-8dba-801b730bcbd4",
+  "name": "Datos personales 2",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Datospersonales2-followup",
+          "lifespan": 1
+        },
+        {
+          "name": "datos2",
+          "lifespan": 1
+        },
+        {
+          "name": "fijo",
+          "lifespan": 5
+        },
+        {
+          "name": "movil",
+          "lifespan": 5
+        },
+        {
+          "name": "internet",
+          "lifespan": 5
+        },
+        {
+          "name": "movistarplus",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d89b9b47-27eb-4997-9d29-13207a725f70",
+          "name": "phone-number",
+          "required": true,
+          "dataType": "@sys.phone-number",
+          "value": "$phone-number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Disculpe , ¿podría repetirme su número de teléfono asociado a su línea de Movistar?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "¿Sobre qué producto tiene la avería #datos1.person ?\n1. Fijo\n2. Internet\n3. Móvil\n4. Movistar+",
+              "displayText": "¿Sobre qué producto tiene la avería #datos1.person ?👇🏼\n1. Fijo\n2. Internet\n3. Móvil\n4. Movistar+",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "suggestions": [
+            {
+              "title": "FIJO 📞"
+            },
+            {
+              "title": "🌐 INTERNET"
+            },
+            {
+              "title": "MÓVIL 📱"
+            },
+            {
+              "title": "📺 MOVISTAR +"
+            }
+          ],
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

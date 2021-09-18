@@ -1,0 +1,57 @@
+{
+  "id": "e08acbd5-b8f4-4ed1-96bf-0c419c9931fe",
+  "name": "Despedida",
+  "auto": true,
+  "contexts": [
+    "despedida"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Despedida-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "¡Gracias por utilizar el soporte técnico de Movistar!.\nEnviaremos un SMS a su móvil  para que pueda realizar una encuesta sobre nuestro asistente virtual.",
+              "displayText": "¡Gracias por utilizar el soporte técnico de Movistar!😄🥳\nEnviaremos un SMS a su móvil 📱   para que pueda realizar una encuesta sobre nuestro asistente virtual ☑️.",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

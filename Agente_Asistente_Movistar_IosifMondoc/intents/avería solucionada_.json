@@ -1,0 +1,63 @@
+{
+  "id": "c19c57e4-062b-4cca-8083-7c00b8831138",
+  "name": "avería solucionada?",
+  "auto": true,
+  "contexts": [
+    "averia_solucionada"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "despedida",
+          "lifespan": 1
+        },
+        {
+          "name": "averasolucionada-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "edbb4294-1e1e-494c-900b-1a33da7db937",
+          "name": "final",
+          "required": true,
+          "dataType": "@final",
+          "value": "$final",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "¿Se le ha solucionado el problema?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,75 @@
+{
+  "id": "3479ffb9-b725-460c-987e-85df107e0dcf",
+  "parentId": "83c96e3b-6507-489e-8dba-801b730bcbd4",
+  "rootParentId": "83c96e3b-6507-489e-8dba-801b730bcbd4",
+  "name": "Datos personales 2 - fallback",
+  "contexts": [
+    "Datospersonales2-followup",
+    "datos2"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "Por favor, debe indicar sobre qué producto tiene la avería #datos1.person\n1. Fijo\n2. Internet\n3. Móvil\n4. Movistar+",
+              "displayText": "Por favor, debe indicar sobre qué producto tiene la avería #datos1.person 👇🏼\n1. Fijo\n2. Internet\n3. Móvil\n4. Movistar+",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "suggestions": [
+            {
+              "title": "FIJO 📞"
+            },
+            {
+              "title": "🌐 INTERNET"
+            },
+            {
+              "title": "MÓVIL 📱"
+            },
+            {
+              "title": "📺 MOVISTAR +"
+            }
+          ],
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

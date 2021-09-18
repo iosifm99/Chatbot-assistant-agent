@@ -1,0 +1,77 @@
+[
+  {
+    "id": "7f6db93d-a3b3-4e03-9b1d-5cc00933abe0",
+    "data": [
+      {
+        "text": "SIM EXTRAVIADA O DETERIORADA",
+        "meta": "@movile",
+        "alias": "movile",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "cbdf7588-6c82-4f2c-8181-6b499cd62e7a",
+    "data": [
+      {
+        "text": "NO TENGO COBERTURA",
+        "meta": "@movile",
+        "alias": "movile",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "d6e195b7-4e4f-47ed-b988-dd4bf6ed46b3",
+    "data": [
+      {
+        "text": "SIM EXTRAVIADA O DETERIOR",
+        "meta": "@movile",
+        "alias": "movile",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "b831e9ed-6f3d-43cc-84f4-fed1b07dc880",
+    "data": [
+      {
+        "text": "DATOS",
+        "meta": "@movile",
+        "alias": "movile",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "e2c7efc1-74f1-44ec-99f4-9ab9c581ed5e",
+    "data": [
+      {
+        "text": "NO TENGO LÍNEA",
+        "meta": "@movile",
+        "alias": "movile",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "es",
+    "updated": 0
+  }
+]

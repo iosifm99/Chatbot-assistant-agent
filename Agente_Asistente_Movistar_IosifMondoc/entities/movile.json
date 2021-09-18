@@ -1,0 +1,9 @@
+{
+  "id": "a4c9fcd5-aa73-476c-a3d7-d92e3b4d03f6",
+  "name": "movile",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

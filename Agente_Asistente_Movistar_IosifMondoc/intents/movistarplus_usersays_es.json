@@ -1,0 +1,62 @@
+[
+  {
+    "id": "a4a5d5c3-d4ce-4708-bffc-582096d8a233",
+    "data": [
+      {
+        "text": "movistar plus",
+        "meta": "@averia",
+        "alias": "averia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "d94da9b5-9945-441a-a8c8-4cbceb61ae00",
+    "data": [
+      {
+        "text": "Movistar +",
+        "meta": "@averia",
+        "alias": "averia",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "2e25a981-9b21-4933-8070-476d33e9dd00",
+    "data": [
+      {
+        "text": "📺 MOVISTAR +",
+        "meta": "@averia",
+        "alias": "averia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "d3f2624e-d7d5-4344-9a4d-172d6fa68d87",
+    "data": [
+      {
+        "text": "Movistar+",
+        "meta": "@averia",
+        "alias": "averia",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

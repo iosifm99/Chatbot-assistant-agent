@@ -1,0 +1,19 @@
+[
+  {
+    "value": "SÍ, gracias",
+    "synonyms": [
+      "SÍ",
+      "si",
+      "gracias",
+      "sí",
+      "si, gracias",
+      "si gracias"
+    ]
+  },
+  {
+    "value": "NO",
+    "synonyms": [
+      "NO"
+    ]
+  }
+]

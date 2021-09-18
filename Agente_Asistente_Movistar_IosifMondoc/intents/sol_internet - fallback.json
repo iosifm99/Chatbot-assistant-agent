@@ -1,0 +1,54 @@
+{
+  "id": "189ca827-a6e7-4667-90bb-a477d27aa781",
+  "parentId": "e70d2c79-87c5-4d6d-8f5a-65027f57bb5d",
+  "rootParentId": "e70d2c79-87c5-4d6d-8f5a-65027f57bb5d",
+  "name": "sol_internet - fallback",
+  "contexts": [
+    "especificas",
+    "averia_solucionada",
+    "sol_internet-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "sol_internet.sol_internet-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "Por favor, indique una de las anteriores opciones.",
+              "displayText": "Por favor, indique una de las anteriores opciones.",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,49 @@
+{
+  "id": "3deed578-b928-4a24-818f-1a9a6beafe75",
+  "parentId": "c8c53665-8031-430b-b484-0e93f5d313f3",
+  "rootParentId": "c8c53665-8031-430b-b484-0e93f5d313f3",
+  "name": "Datos personales 1 - fallback",
+  "contexts": [
+    "datos1",
+    "Datospersonales1-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Datospersonales1.Datospersonales1-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "Disculpe , ¿podría repetirme su número de teléfono asociado a su línea de Movistar?",
+              "displayText": "Disculpe , ¿podría repetirme su número de teléfono📱 asociado a su línea de Movistar?",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

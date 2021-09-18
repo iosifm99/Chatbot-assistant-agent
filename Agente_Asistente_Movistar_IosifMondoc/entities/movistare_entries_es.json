@@ -1,0 +1,31 @@
+[
+  {
+    "value": "CANALES",
+    "synonyms": [
+      "canal",
+      "canales"
+    ]
+  },
+  {
+    "value": "CONFIGURACIÓN DE OPCIONES",
+    "synonyms": [
+      "configuración de opciones",
+      "opciones",
+      "configuración"
+    ]
+  },
+  {
+    "value": "DESCO Y MANDO",
+    "synonyms": [
+      "DESCO Y MANDO",
+      "desco y mando"
+    ]
+  },
+  {
+    "value": "SERIES, PELÍCULAS Y OTROS CONTENIDOS",
+    "synonyms": [
+      "series, pelis, etc",
+      "series, películas y otros contenidos"
+    ]
+  }
+]

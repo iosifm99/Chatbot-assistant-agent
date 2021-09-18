@@ -1,0 +1,9 @@
+{
+  "id": "fc96e903-78a0-440d-98df-ab6182c9c78d",
+  "name": "averia",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

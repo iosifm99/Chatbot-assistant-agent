@@ -1,0 +1,164 @@
+[
+  {
+    "value": "Restablecer router",
+    "synonyms": [
+      "Restablecer router",
+      "Restablecer valores de fábrica del router"
+    ]
+  },
+  {
+    "value": "Cambiar canal frec",
+    "synonyms": [
+      "Cambiar canal frec",
+      "Cambiar de canal de frecuencia"
+    ]
+  },
+  {
+    "value": "Cambiar seguridad",
+    "synonyms": [
+      "Cambiar seguridad",
+      "Cambiar tipo de seguridad a WPA-Personal",
+      "Cambiar tipo de seguridad"
+    ]
+  },
+  {
+    "value": "Navego lento",
+    "synonyms": [
+      "Navego lento",
+      "Navego lento con cobre"
+    ]
+  },
+  {
+    "value": "Conexión inestable",
+    "synonyms": [
+      "Conexión inestable",
+      "La conexión va y viene"
+    ]
+  },
+  {
+    "value": "Luz del wifi roja",
+    "synonyms": [
+      "Luz del wifi roja",
+      "La luz del wifi aparece en rojo en el router"
+    ]
+  },
+  {
+    "value": "No navego",
+    "synonyms": [
+      "No navego"
+    ]
+  },
+  {
+    "value": "No funciona router",
+    "synonyms": [
+      "No funciona router",
+      "El router no me funciona"
+    ]
+  },
+  {
+    "value": "Ni línea ni Wifi",
+    "synonyms": [
+      "Ni línea ni Wifi",
+      "No tengo línea ni wifi"
+    ]
+  },
+  {
+    "value": "Zonas sin Wifi",
+    "synonyms": [
+      "Zonas sin Wifi",
+      "No tengo conexión en algunas zonas de mi casa"
+    ]
+  },
+  {
+    "value": "No veo en directo",
+    "synonyms": [
+      "No veo en directo",
+      "No veo un canal con emisión en directo",
+      "No veo unos canales con emisiones en directo"
+    ]
+  },
+  {
+    "value": "No veo el fútbol",
+    "synonyms": [
+      "No veo el fútbol",
+      "No veo los canales de fútbol"
+    ]
+  },
+  {
+    "value": "No veo programación",
+    "synonyms": [
+      "No veo programación",
+      "No veo la programación de los últimos días"
+    ]
+  },
+  {
+    "value": "No puedo grabar",
+    "synonyms": [
+      "No puedo grabar",
+      "No puedo grabar los programas de la tele"
+    ]
+  },
+  {
+    "value": "Falla algún canal",
+    "synonyms": [
+      "Falla algún canal",
+      "Falla algún canal o todos"
+    ]
+  },
+  {
+    "value": "La imagen va y viene",
+    "synonyms": [
+      "La imagen va y viene",
+      "La imagen va y viene (pixelaciones o cortes de señal)"
+    ]
+  },
+  {
+    "value": "Historial grabaciones",
+    "synonyms": [
+      "Historial grabaciones",
+      "No puedo acceder a mi historial de grabaciones"
+    ]
+  },
+  {
+    "value": "Instalar en otros",
+    "synonyms": [
+      "Instalar en otros",
+      "Instalar en otros dispositivos"
+    ]
+  },
+  {
+    "value": "Aparece mensaje",
+    "synonyms": [
+      "Aparece mensaje",
+      "Aparece mensaje en la tele: “Ya hay un dispositivo reproduciendo”"
+    ]
+  },
+  {
+    "value": "No veo series",
+    "synonyms": [
+      "No veo series",
+      "No puedo acceder al contenido de serie"
+    ]
+  },
+  {
+    "value": "No veo pelis",
+    "synonyms": [
+      "No veo pelis",
+      "No puedo acceder al contenido de pelis"
+    ]
+  },
+  {
+    "value": "Ni series ni pelis",
+    "synonyms": [
+      "Ni series ni pelis",
+      "No puedo acceder ni a series ni pelis"
+    ]
+  },
+  {
+    "value": "Servicio premium",
+    "synonyms": [
+      "Servicio premium",
+      "No puedo acceder al servicio premium de series y pelis"
+    ]
+  }
+]

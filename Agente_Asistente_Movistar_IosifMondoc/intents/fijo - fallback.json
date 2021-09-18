@@ -1,0 +1,75 @@
+{
+  "id": "fbc72975-18d7-45a0-94e5-e33ef931f503",
+  "parentId": "4de4ac9c-e98b-44df-af9d-0ea861db029a",
+  "rootParentId": "4de4ac9c-e98b-44df-af9d-0ea861db029a",
+  "name": "fijo - fallback",
+  "contexts": [
+    "sol_fijo",
+    "fijo-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "fijo.fijo-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "Vaya, siento que tengas un problema con tu línea de teléfono fijo #datos1.person , pero no te preocupes que te ayudo a solucionarlo. \nIndique cuál es su problem:\n1. Emito pero no recibo o recibo pero no emito llamada \n2. Sin línea (ni emito ni recibo) \n3. Problemas de calidad \n4. No veo el número de teléfono de quién me llama",
+              "displayText": "Vaya, siento que tengas un problema con tu línea de teléfono fijo ☎️ #datos1.person , pero no te preocupes que te ayudo a solucionarlo. \nIndique cuál es su problema 👇🏼:\n1. Emito pero no recibo o recibo pero no emito llamada \n2. Sin línea (ni emito ni recibo) \n3. Problemas de calidad \n4. No veo el número de teléfono de quién me llama",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "suggestions": [
+            {
+              "title": "Emito pero no recibo"
+            },
+            {
+              "title": "Sin línea"
+            },
+            {
+              "title": "Problemas de calidad"
+            },
+            {
+              "title": "No veo el nº entrante"
+            }
+          ],
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

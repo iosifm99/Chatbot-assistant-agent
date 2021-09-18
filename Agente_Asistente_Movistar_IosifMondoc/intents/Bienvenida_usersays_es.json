@@ -1,0 +1,363 @@
+[
+  {
+    "id": "aa3d3d33-5039-4efd-86f4-e4be2c2b5822",
+    "data": [
+      {
+        "text": "Nueva consulta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "cdf9d8a3-9451-436e-828a-0f60f834d654",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " linea no funciona",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "7d8f60b0-d830-4d8b-b2f4-6fb059f0e386",
+    "data": [
+      {
+        "text": "no funciona movistar+",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "de94cf21-c5f2-4ad4-955a-a9f17943b403",
+    "data": [
+      {
+        "text": "no me va ",
+        "userDefined": false
+      },
+      {
+        "text": "el internet",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "df1a77cd-402e-48dc-aa4d-f09f9ef40dcd",
+    "data": [
+      {
+        "text": "como puedo ver ",
+        "userDefined": false
+      },
+      {
+        "text": "pelis",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "1dca1e17-06ac-4338-aed1-040786f2f947",
+    "data": [
+      {
+        "text": "no me ",
+        "userDefined": false
+      },
+      {
+        "text": "van",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " los datos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "d6b13de4-5abb-43d8-ab21-191f96518ed4",
+    "data": [
+      {
+        "text": "no puedo llamar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "bc89e9d5-b642-4deb-aaab-886ddd93fb9b",
+    "data": [
+      {
+        "text": "no escucho las llamadas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "0184bc73-6cfc-4bdc-802e-9b252e37481d",
+    "data": [
+      {
+        "text": "el wifi va muy lento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "452af470-730d-4831-94a9-6c012f3ced93",
+    "data": [
+      {
+        "text": "no tengo ",
+        "userDefined": false
+      },
+      {
+        "text": "canales",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "fac3d3fe-3b9e-4b06-a1cf-37d1301e77dd",
+    "data": [
+      {
+        "text": "no me funciona la tv",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "ad978837-68d8-4139-baa7-205d323e8e30",
+    "data": [
+      {
+        "text": "no me va la tele",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "b0d5d399-4d99-4c76-bbff-40b20dc2defc",
+    "data": [
+      {
+        "text": "quiero reclamar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "35ef6a14-04ec-438f-a8d5-5ba2960ef141",
+    "data": [
+      {
+        "text": "tengo ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " problema",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "c3dd94dd-ef79-46a3-a81e-bbbf437efa75",
+    "data": [
+      {
+        "text": "ayudame",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "5ff625f1-2537-43b8-bddf-b3728f7ea92d",
+    "data": [
+      {
+        "text": "buenas noches",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "a2a64b89-b614-4da0-8c8d-af3ac3077250",
+    "data": [
+      {
+        "text": "buenas tardes",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "1d2a1254-1488-42fa-9488-c3b23606dbe0",
+    "data": [
+      {
+        "text": "buenos dias",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "6a68f115-ab9f-4b6b-acbe-ae3dbb88521e",
+    "data": [
+      {
+        "text": "no me funciona el movil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "07abd1f6-cc69-4720-ac62-4c1e2a851842",
+    "data": [
+      {
+        "text": "no me funciona el wifi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "4aa43bd3-03f4-49ef-a1c1-789120baa313",
+    "data": [
+      {
+        "text": "tengo ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " averia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "0f5ad8a0-553b-4551-8918-40da9ebeb632",
+    "data": [
+      {
+        "text": "hola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "60adaa1d-d2c5-4a64-827b-d9ef03695075",
+    "data": [
+      {
+        "text": "hey",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "b3270b0b-67d8-4376-8047-f079173f4b15",
+    "data": [
+      {
+        "text": "saludos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

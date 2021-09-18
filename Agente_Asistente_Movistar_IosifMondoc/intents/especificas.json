@@ -1,0 +1,63 @@
+{
+  "id": "b1bc06b8-ec45-4306-b49d-0e0d16c7ef87",
+  "name": "especificas",
+  "auto": true,
+  "contexts": [
+    "especificas"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "averia_solucionada",
+          "lifespan": 10
+        },
+        {
+          "name": "especificas-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "7a26b384-c6f0-499b-883b-e3ce5a7aac9c",
+          "name": "especificas",
+          "required": true,
+          "dataType": "@especificas",
+          "value": "$especificas",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Por favor, indique una de las posibles opciones dichas anteriormente."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

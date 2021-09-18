@@ -1,0 +1,122 @@
+[
+  {
+    "id": "cf90220d-e601-4df6-bf05-f0e43736005c",
+    "data": [
+      {
+        "text": "OTROS",
+        "meta": "@internete",
+        "alias": "internete",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "26a1a832-8862-4b22-8901-48ae803a5d43",
+    "data": [
+      {
+        "text": "PROBLEMAS DE NAVEGACIÓN",
+        "meta": "@internete",
+        "alias": "internete",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "ab73d640-92e2-487f-aa65-cdae77474229",
+    "data": [
+      {
+        "text": "CONFIGURACIÓN WIFI",
+        "meta": "@internete",
+        "alias": "internete",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "e3f10424-2cd0-4c11-8a2d-d8ff32c2bd9c",
+    "data": [
+      {
+        "text": "DISPOSITIVOS DE CONEXIÓN",
+        "meta": "@internete",
+        "alias": "internete",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "2872020f-d77e-49ec-b7bb-cce8b16f410e",
+    "data": [
+      {
+        "text": "⚙️ OTROS",
+        "meta": "@internete",
+        "alias": "internete",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "451cb436-78aa-4e9a-b4f0-814065d7a870",
+    "data": [
+      {
+        "text": "❌ PROBLEMAS DE NAVEGACION",
+        "meta": "@internete",
+        "alias": "internete",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "fe6a6536-dec2-4cfc-814b-7fd8c87780a3",
+    "data": [
+      {
+        "text": "📲 DISPOSITIVOS DE CONEXIÓN",
+        "meta": "@internete",
+        "alias": "internete",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "4c51ea6a-c4c8-41b3-80c4-f3ec88e9786f",
+    "data": [
+      {
+        "text": "📶 CONFIGURACIÓN WIFI",
+        "meta": "@internete",
+        "alias": "internete",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

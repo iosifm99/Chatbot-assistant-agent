@@ -1,0 +1,63 @@
+{
+  "id": "1bab8441-45a9-4023-b51f-0e85a2db539f",
+  "name": "sol_movil",
+  "auto": true,
+  "contexts": [
+    "sol_movil"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "averia_solucionada",
+          "lifespan": 10
+        },
+        {
+          "name": "sol_movil-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "a5c50a7e-b5bc-4dc9-a307-04a6662566c9",
+          "name": "movile",
+          "required": true,
+          "dataType": "@movile",
+          "value": "$movile",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Por favor, elige una de las opciones mencionadas anteriormente."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

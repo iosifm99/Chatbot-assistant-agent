@@ -1,0 +1,102 @@
+{
+  "id": "eb291fe0-bc58-42d2-b095-c3a97eb5b540",
+  "name": "movistarplus",
+  "auto": true,
+  "contexts": [
+    "movistarplus"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "sol_movistar",
+          "lifespan": 10
+        },
+        {
+          "name": "movistarplus-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "c7d5e698-8da1-42ca-b534-fb102b81ca76",
+          "name": "averia",
+          "required": true,
+          "dataType": "@averia",
+          "value": "$averia",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Por favor, elige una de las opciones mencionadas anteriormente."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "Vaya, siento que tengas un problema con la TV pero no te preocupes en un periquete lo solucionamos. Indique cuál es su problema:\n1. Canales\n2. Configuración de opciones\n3. Desco y mando\n4. Series, películas y otros contenidos",
+              "displayText": "Vaya, siento que tengas un problema con la TV  📺 pero no te preocupes en un periquete lo solucionamos. Indique cuál es su problema: 👇🏻\n1. Canales\n2. Configuración de opciones\n3. Desco y mando\n4. Series, películas y otros contenidos",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "suggestions": [
+            {
+              "title": "Canales"
+            },
+            {
+              "title": "Configuración"
+            },
+            {
+              "title": "Desco y mando"
+            },
+            {
+              "title": "Series, películas, etc"
+            }
+          ],
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

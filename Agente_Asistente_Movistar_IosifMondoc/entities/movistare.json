@@ -1,0 +1,9 @@
+{
+  "id": "d2466f1a-6de4-456f-afd0-5b194c4aba9a",
+  "name": "movistare",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

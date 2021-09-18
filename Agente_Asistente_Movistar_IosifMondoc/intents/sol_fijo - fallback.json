@@ -1,0 +1,69 @@
+{
+  "id": "29a5360f-cd5f-4df4-b0f1-02f2a23f16d6",
+  "parentId": "050a28b7-52ba-4eeb-9c1d-3c60d3020fa0",
+  "rootParentId": "050a28b7-52ba-4eeb-9c1d-3c60d3020fa0",
+  "name": "sol_fijo - fallback",
+  "contexts": [
+    "averia_solucionada",
+    "sol_fijo-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "sol_fijo.sol_fijo-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "Por favor me puede indicar si ¿se le ha solucionado el problema?",
+              "displayText": "Por favor me puede indicar si ¿se le ha solucionado el problema?  🤷‍♀️",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "suggestions": [
+            {
+              "title": "Sí, gracias"
+            },
+            {
+              "title": "No"
+            }
+          ],
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

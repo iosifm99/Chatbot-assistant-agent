@@ -1,0 +1,75 @@
+{
+  "id": "74f9bbba-be42-4aa5-a272-48779a7c5884",
+  "parentId": "cff4ed18-3c6d-4219-9c02-28caabf588b2",
+  "rootParentId": "cff4ed18-3c6d-4219-9c02-28caabf588b2",
+  "name": "móvil - fallback",
+  "contexts": [
+    "sol_movil",
+    "mvil-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "mvil.mvil-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "Vaya, siento que tengas un problema con tu telefonía móvil, pero no te preocupes en un periquete lo intentamos solucionar. Indique cuál es su problema: \n1. Datos\n2. No tengo línea\n3. No tengo cobertura\n4. Sim extraviada o deteriorada",
+              "displayText": "Vaya, siento que tengas un problema con tu telefonía móvil 📲 , pero no te preocupes en un periquete lo intentamos solucionar. Indique cuál es su problema:  👇🏻\n1. Datos\n2. No tengo línea\n3. No tengo cobertura\n4. Sim extraviada o deteriorada",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "suggestions": [
+            {
+              "title": "Datos"
+            },
+            {
+              "title": "No tengo línea"
+            },
+            {
+              "title": "No tengo cobertura"
+            },
+            {
+              "title": "Sim extraviada o deterior"
+            }
+          ],
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

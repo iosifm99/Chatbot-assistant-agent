@@ -1,0 +1,62 @@
+[
+  {
+    "id": "919932c5-0a44-434b-8da4-daf7cf938913",
+    "data": [
+      {
+        "text": "NO VEO EL Nº ENTRANTE",
+        "meta": "@fijo",
+        "alias": "fijo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "1153a09e-260e-4e96-bbfb-e1aa0f4c5a8d",
+    "data": [
+      {
+        "text": "PROBLEMAS DE CALIDAD",
+        "meta": "@fijo",
+        "alias": "fijo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "9e143ec9-0b08-4fbf-a774-7fe0ca0aa4cd",
+    "data": [
+      {
+        "text": "SIN LÍNEA",
+        "meta": "@fijo",
+        "alias": "fijo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "e41f12ca-d85e-45af-9a2f-cf8ef5f70dd2",
+    "data": [
+      {
+        "text": "EMITO PERO NO RECIBO",
+        "meta": "@fijo",
+        "alias": "fijo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

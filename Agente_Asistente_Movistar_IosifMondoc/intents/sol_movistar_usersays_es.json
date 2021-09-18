@@ -1,0 +1,62 @@
+[
+  {
+    "id": "afa5484f-1b33-428a-97d4-7d32c4a940f1",
+    "data": [
+      {
+        "text": "1. CANALES",
+        "meta": "@movistare",
+        "alias": "movistare",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "5b9a6bf7-2bb8-4a60-9965-5513950f3c69",
+    "data": [
+      {
+        "text": "2. CONFIGURACION DE OPCIONES",
+        "meta": "@movistare",
+        "alias": "movistare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "523a882c-bc95-49ce-aa29-21b4380e99a6",
+    "data": [
+      {
+        "text": "3. DESCO Y MANDO",
+        "meta": "@movistare",
+        "alias": "movistare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "9aa4896e-4f16-4a54-bcef-539c6a3317a6",
+    "data": [
+      {
+        "text": "4. SERIES, PELICULAS Y OTROS CONTENIDOS",
+        "meta": "@movistare",
+        "alias": "movistare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]
