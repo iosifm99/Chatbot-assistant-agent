@@ -1,5 +1,7 @@
 # Chatbot-assistant-agent
 
+Design of a virtual Movistar technical support assistant using Dialogflow
+
 Authors: Iosif Mondoc and Patricia Paredes Martín
 
 Subject: Network Intelligence
